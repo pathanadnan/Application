@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>serices</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>this services jsp file</h1>
 
 </body>
 </html>
